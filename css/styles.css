@@ -22,11 +22,11 @@ main {
     border: 20px solid #2A143F;
 }
 
-#gallery, #archive {
+#one, #two {
 	display: block;
 }
 
-#gallery {
+#two {
 	margin-right: 20px;
 }
 
