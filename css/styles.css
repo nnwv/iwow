@@ -19,7 +19,7 @@ main {
     align-items: center; 
     justify-content: center; 
     height: 100vh;
-    border: 20px solid #2A143F;
+    border: 25px solid #2A143F;
 }
 
 #one, #two {
